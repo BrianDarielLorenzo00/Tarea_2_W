@@ -3,4 +3,5 @@
 Brian Dariel Lorenzo Lorenzo(2019-8375)
 Aqui encontraran la imagen mendiante el Readme .
 
-![Mitarea](https://user-images.githubusercontent.com/82105134/121120519-b69e4600-c7eb-11eb-9934-45dcfd4c66bd.png)
+![Image](https://user-images.githubusercontent.com/82105134/121120784-47752180-c7ec-11eb-9440-27311aa9c9a4.png)
+
